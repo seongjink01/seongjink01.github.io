@@ -250,12 +250,12 @@ pagination:
   sort_field: 'date'
   sort_reverse: true
   category: 'posts'
-  published: true
   tag: ''
   locale: ''
   trail:
     before: 2
     after: 2
+  published: true
 
 
 # Plugins (previously gems:)
