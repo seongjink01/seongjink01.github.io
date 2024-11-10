@@ -118,7 +118,7 @@ author:
   avatar           : "/assets/증명사진.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Current : B.S. Electrical Engineering at KAIST"
   location         : "177, Gosanja-ro, Seongdong-gu, Seoul"
-  email            : "seongjink01@kaist.ac.kr"
+  #email            : "seongjink01@kaist.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
