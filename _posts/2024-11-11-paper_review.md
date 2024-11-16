@@ -17,5 +17,7 @@ toc : true
 ## In-plane wavevector
 - definition : component of wavevector that lies parallel to the plane of interface
     - characteristics : stays constant when traveling through layers due to conservation of momentum
-    - formula : $v=c/n=f*(lambda)/n$, $E=hf$
+    - formula : $$v=c/n=f*(lambda)/n$$, $$E=hf$$
         - energy (constant) -> change of n -> leads to change in (lambda)
+        - thus, change in layer leads to a change in wavelength and wavevector
+        - $$ k_x = 2*pi*n/(lambda) * sin(theta)$$
