@@ -12,6 +12,10 @@ toc : true
 -  OLED : optical cavity with emitter inside 
     - various modes : WG, SPP, air mode etc.
     - layers : ETL, HTL, EML (outcoupling efficiency, refractive index)
+"/assets/images/OLED layer.png"
+
 ## In-plane wavevector
-- definition : how fast the wave travels in a 2D plane
-    -
+- definition : component of wavevector that lies 
+    - characteristics : stays constant when traveling through layers due to conservation of momentum
+    - formula : $v=c/n=f*(lambda)/n$, $E=hf$
+    - 
